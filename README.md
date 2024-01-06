@@ -1,4 +1,4 @@
-##[Mock Hackathon]
+<h1>Mock Hackathon</h1>
 
 #[0 - greedy]
 next version - held karp
