@@ -11,3 +11,4 @@ if the capacity can't be divided like weight then</br>
 next version - held karp with knapsack
 
 <h3>2- In Progress</h3>
+Idea - Split the destinations based on capacity of vehicle.
