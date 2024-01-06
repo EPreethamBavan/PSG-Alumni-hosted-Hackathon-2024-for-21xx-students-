@@ -6,7 +6,7 @@ next version - held karp
 <h3>1 - greedy with backtracking</h3> 
 consideration : The capacity can be divided
 next version - held karp with backtracking
-
+</br>
 if the capacity can't be divided like weight then</br>
 next version - held karp with knapsack
 
