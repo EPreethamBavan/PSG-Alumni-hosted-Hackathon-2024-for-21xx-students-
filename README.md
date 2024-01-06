@@ -1,9 +1,9 @@
 <h1>Mock Hackathon</h1>
 
-<h3>0 - greedy</h3>
+<h3>0 - Greedy</h3>
 next version - held karp
 
-<h3>1 - greedy with backtracking</h3> 
+<h3>1 - Greedy with backtracking(not traditional)</h3> 
 consideration : The capacity can be divided
 next version - held karp with backtracking
 </br>
