@@ -7,7 +7,7 @@ next version - held karp
 consideration : The capacity can be divided
 next version - held karp with backtracking
 
-if the capacity can't be divided like weight then
+if the capacity can't be divided like weight then</br>
 next version - held karp with knapsack
 
 <h3>2- In Progress</h3>
